@@ -7,7 +7,7 @@ The detial of the interpretable model is shown in run_ml_3.py
 The detial of the deep learning model is shown in run_dl.py and model.py
 
 ## Citation
-If you use the code or find this work useful, please consider citing us
+If you use the code in your research, please cite the following publication.
 ```
 @inproceedings{bai2020fatigue,
   title={Fatigue Assessment using ECG and Actigraphy Sensors},
