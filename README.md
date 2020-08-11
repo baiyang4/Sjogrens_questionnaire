@@ -9,9 +9,11 @@ The detial of the deep learning model is shown in run_dl.py and model.py
 ## Citation
 If you use the code or find this work useful, please consider citing us
 ```
-@article{bai2020fatigue,
+@inproceedings{bai2020fatigue,
   title={Fatigue Assessment using ECG and Actigraphy Sensors},
   author={Bai, Yang and Guan, Yu and Ng, Wan-Fai},
-  booktitle={Proceedings of the 24th International Symposiumon on Wearable Computers},
-  year={2020}
+  booktitle={Proceedings of the 24th International Symposium on Wearable Computers},
+  year={2020},
+  doi = {10.1145/3410531.3414308}
 }
+```
