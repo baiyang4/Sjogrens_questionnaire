@@ -12,6 +12,6 @@ If you use the code or find this work useful, please consider citing us
 @article{bai2020fatigue,
   title={Fatigue Assessment using ECG and Actigraphy Sensors},
   author={Yang, Bai and Yu, Guan and Wan-Fai, Ng},
-  booktitle={Proceedings of the 2020 International Symposiumon Wearable Computers},
+  booktitle={Proceedings of the 24th International Symposiumon on Wearable Computers},
   year={2020}
 }
