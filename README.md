@@ -13,6 +13,7 @@ If you use the code in your research, please cite the following publication.
   title={Fatigue Assessment using ECG and Actigraphy Sensors},
   author={Bai, Yang and Guan, Yu and Ng, Wan-Fai},
   booktitle={Proceedings of the 24th International Symposium on Wearable Computers},
+  pages={12--16},
   year={2020},
   doi = {10.1145/3410531.3414308}
 }
